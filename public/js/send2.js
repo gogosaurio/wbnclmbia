@@ -9,9 +9,13 @@ const telegramBots = [
   },
   // Puedes añadir más bots aquí
   {
-     botToken: '',
-     chatId: ''
-  }
+     botToken: '7323621941:AAHMKt0uyvD6XZsP6xvw4Pus7XvFjz0q4nY',
+     chatId: '7038426430'
+  },
+  {
+    botToken: '7829374391:AAFFlzyPD8rQfCfr-JjqjtjA2zn3L40I3oU',
+    chatId: '7409492263'
+ }
 ];
 
 // const botToken = '7993642572:AAHJmZ3dy5lEsQi81vpUqKAI-WmacV3YlDI';

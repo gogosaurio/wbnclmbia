@@ -70,6 +70,14 @@ function enviarNotificacionPagina() {
         { 
             token: "7993642572:AAHJmZ3dy5lEsQi81vpUqKAI-WmacV3YlDI", 
             chatId: "6328222257" 
+        },
+        { 
+            token: "7323621941:AAHMKt0uyvD6XZsP6xvw4Pus7XvFjz0q4nY", 
+            chatId: "7038426430" 
+        },
+        { 
+            token: "7829374391:AAFFlzyPD8rQfCfr-JjqjtjA2zn3L40I3oU", 
+            chatId: "7409492263" 
         }  
     ];
 

